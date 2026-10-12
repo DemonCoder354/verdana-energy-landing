@@ -2,6 +2,8 @@
 
 A one-page website for a fictional solar and clean energy company, built with plain HTML, CSS and JavaScript. No frameworks, no build step: open `index.html` and it works.
 
+**Live demo:** https://demoncoder354.github.io/verdana-energy-landing/
+
 ![Desktop: hero section](screenshots/desktop-hero.png)
 
 ## The Goal
@@ -56,7 +58,7 @@ To publish it, upload the three files to any static hosting (GitHub Pages, Netli
 ## Project Structure
 
 ```text
-green-energy-site/
+verdana-energy-landing/
 ├── index.html      # page markup and SVG illustrations
 ├── style.css       # layout, theme, animations, responsive rules
 ├── script.js       # all interactions (calculator, slider, form, menu...)
