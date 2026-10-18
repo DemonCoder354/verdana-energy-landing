@@ -157,7 +157,7 @@ p { margin: 0 0 1em; }
 
 .hero-visual { position: relative; }
 .scene { width: 100%; height: auto; border-radius: 32px; box-shadow: var(--shadow-lg); }
-.blades { animation: spin 4s linear infinite; transform-box: fill-box; transform-origin: center; }
+.blades { animation: spin 4s linear infinite; transform-box: view-box; transform-origin: 0 0; }
 .blades.slow { animation-duration: 6s; }
 @keyframes spin { to { transform: rotate(360deg); } }
 .sun-glow { animation: glow 4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
